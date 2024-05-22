@@ -1,4 +1,4 @@
-# Covid Vaccine Statewise Data Science Mini Project
+# Covid Vaccine Statewise Data Science Project
 
 Dataset Link - https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=covid_vaccine_statewise.csv
 
